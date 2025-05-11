@@ -5,13 +5,6 @@ https://debirupa1904.github.io/resume.io/
 Overview
 Welcome to the AI & Robotics Research Projects repository. This repository includes various projects, research papers, and practical implementations centered around advanced AI solutions for robotic perception, digital twin simulations, and AI-based automation. These projects leverage cutting-edge AI/ML algorithms, computer vision, deep learning, and 3D point cloud data processing for diverse domains such as material handling, healthcare, and automotive.
 
-Dr. Debirupa Hore
-Technology Manager at Kion Group AG (Kion India Pvt Ltd)
-Email: debirupa1904@gmail.com
-Phone: +91 8600014428
-Location: Pune, Maharashtra, India
-Google Scholar: Research Papers
-
 Key Achievements:
 Building and leading high-performing simulation teams for the development of digital twin simulations of live warehouses using NVIDIA Omniverse/Isaac Sim and 3D point cloud data.
 
